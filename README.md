@@ -3,8 +3,7 @@
 <h4 align="center">
 Knowledge gained while creating own projects and from online courses of Ruby on Rails, 
 HTML, CSS, JavaScript, React and more. Mentee in 7th edition 
-of Tech Leaders program. Work experience in BIM as coordinator 
-gave a good introduction to the role of a Ruby developer</h4>
+of Tech Leaders program.</h4>
 - 🔭 I’m currently working on [SH-Cart](https://github.com/zlotawanna/sh-cart)
 
 - 🌱 I’m currently learning **Ruby on Rails**
